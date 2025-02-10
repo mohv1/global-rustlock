@@ -11,7 +11,6 @@ A cross-platform CapsLock synchronization tool written in Rust, allowing you to 
 - Secure WebSocket (wss://) communication
 - Low latency (<100ms updates)
 - Cross-platform support (Linux/Windows/macOS)
-- Automatic reconnection logic
 
 ## Installation 📦
 
